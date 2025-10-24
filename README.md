@@ -1,6 +1,6 @@
 # 🧠 Symfony CLI Cheat Sheet (PHP 8.4 / Symfony 7.x)
 
-A quick reference for commonly used Symfony and Doctrine CLI commands — optimized for **API projects**, **Docker workflows**, and **interview tasks** like your *SR Travel* Symfony coding assignment.
+A quick reference for commonly used Symfony and Doctrine CLI commands.
 
 ---
 
